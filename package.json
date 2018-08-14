@@ -1,0 +1,14 @@
+{
+  "name": "rtc_broadcast",
+  "version": "1.0.0",
+  "description": "webrtc to broadcast from mobile cam",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^6.0.0"
+  }
+}
